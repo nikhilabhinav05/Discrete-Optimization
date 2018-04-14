@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-
+#first problem
 from collections import namedtuple
 Item = namedtuple("Item", ['index', 'value', 'weight'])
 
